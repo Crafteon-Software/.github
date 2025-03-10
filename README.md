@@ -1,6 +1,6 @@
 # Welcome to Crafteon Software! 👋
 
-![Crafteon Software Logo](4.jpg)
+<img src="4.jpg" width="200">
 
 **Crafting Innovative Software Solutions**
 
