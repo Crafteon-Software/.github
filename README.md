@@ -24,7 +24,6 @@ Crafteon Software specializes in:
 *   **Web Application Development:** We create robust and user-friendly web applications that are scalable and meet modern web standards.
 *   **Mobile Application Development:** We develop native and cross-platform mobile applications for iOS and Android platforms, ensuring seamless user experiences on mobile devices.
 *   **Software Consulting:**  We offer expert guidance and consulting services to help businesses navigate their software needs, from technology strategy to implementation.
-*   **[Your Own Projects (Examples)]:**  We are also actively developing our own suite of products, including [mention a brief, exciting name or category of your in-house projects - e.g., "innovative productivity tools", "AI-powered solutions for...", etc.].  Stay tuned for exciting updates!
 
 ## Our Vision ✨
 
@@ -41,10 +40,8 @@ We are always open to new opportunities, collaborations, and conversations.
 
 **Contact Us:**
 
-*   **Website:** [Your Company Website URL - If you have one]
-*   **Email:** [Your Company Email Address]
-*   **LinkedIn:** [Your Company LinkedIn Profile URL - If you have one]
-*   **[Other relevant social media or contact links]**
+*   **Website:** crafteonsoftware.com
+*   **Email:** crafteonsoftware@gmail.com
 
 Thank you for visiting our GitHub profile and learning about Crafteon Software. We look forward to crafting the future of software with you!
 
