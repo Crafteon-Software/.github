@@ -40,7 +40,7 @@ We are always open to new opportunities, collaborations, and conversations.
 
 **Contact Us:**
 
-*   **Website:** crafteonsoftware.com
+*   **Website:** [crafteonsoftware.com](https://www.crafteonsoftware.com)
 *   **Email:** crafteonsoftware@gmail.com
 
 Thank you for visiting our GitHub profile and learning about Crafteon Software. We look forward to crafting the future of software with you!
