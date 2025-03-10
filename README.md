@@ -1,6 +1,6 @@
 # Welcome to Crafteon Software! 👋
 
-<img src="4.jpg" width="200">
+<img src="4.jpg" width="300">
 
 **Crafting Innovative Software Solutions**
 
